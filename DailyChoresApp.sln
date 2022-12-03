@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DailyChoresApp", "DailyChoresApp.csproj", "{73978AB2-D625-4C08-BC30-ECB757C06727}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73978AB2-D625-4C08-BC30-ECB757C06727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73978AB2-D625-4C08-BC30-ECB757C06727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73978AB2-D625-4C08-BC30-ECB757C06727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73978AB2-D625-4C08-BC30-ECB757C06727}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7801AA97-A505-4823-A0CE-14EB355DEC08}
+	EndGlobalSection
+EndGlobal
