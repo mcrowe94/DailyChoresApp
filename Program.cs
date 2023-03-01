@@ -7,7 +7,7 @@
 
 
             Console.WriteLine("Welcome to your Daily Chores App!");
-            Console.WriteLine("-----------------------------");
+            Console.WriteLine("-------------------------------");
             Console.WriteLine();
 
             Console.WriteLine("Please select a day you would like to see:");
